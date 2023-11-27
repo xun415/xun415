@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Contact
-xun415@naver.com
+naver
+<a href="xun415@naver.com">
+<img src="https://img.shields.io/badge/Mail-#03C75A?style=flat-square&logo=naver&logoColor=white"/>
+</a>
+
