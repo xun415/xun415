@@ -1,7 +1,4 @@
 # 박태훈 TAEHUN PARK (Frontend developer)
-
-
-
 <!--
 **xun415/xun415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me
-<img src="https://img.shields.io/badge/Mail-#03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+### Contact
+xun415@naver.com
